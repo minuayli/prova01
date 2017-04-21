@@ -10,7 +10,6 @@ int main() {
     printf("\n %d \n", addizione(a,b));
     return(0);
 
-    
 }
 
 int addizione(int a, int b){
